@@ -1,0 +1,21 @@
+.one{
+    background-color: blueviolet;
+    color: aquamarine;
+}
+.two{
+    background-color: blueviolet;
+    color: aquamarine;
+}
+.three{
+    background-color: blueviolet;
+    color: aquamarine;
+
+}
+.one,.two,.three{
+    padding: 50px;
+    
+
+}
+table{
+    margin: 300px;
+}
